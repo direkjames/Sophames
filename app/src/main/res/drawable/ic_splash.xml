@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="288dp"
+    android:height="288dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Rings on the porcelain splash background -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M24,54 a20,20 0 1,0 40,0 a20,20 0 1,0 -40,0"
+        android:strokeColor="#D6567F"
+        android:strokeWidth="3.2" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M44,54 a20,20 0 1,0 40,0 a20,20 0 1,0 -40,0"
+        android:strokeColor="#C9A074"
+        android:strokeWidth="3.2" />
+</vector>

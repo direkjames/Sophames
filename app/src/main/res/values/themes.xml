@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Sophames.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/porcelain</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_splash</item>
+        <item name="postSplashScreenTheme">@style/Theme.Sophames</item>
+    </style>
+
+    <style name="Theme.Sophames" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/porcelain</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+</resources>
